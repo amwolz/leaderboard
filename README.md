@@ -71,7 +71,7 @@ make
 
 ## Usage
 
-[video demonstration]
+![leaderboard-demo](https://github.com/user-attachments/assets/2a3b4ecf-48e2-4ee0-992a-af31c45559a1)
 
 ## License
 
